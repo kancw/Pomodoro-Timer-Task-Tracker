@@ -72,9 +72,9 @@ The **4 dots** below the timer fill in as you complete each Pomodoro in a set.
 
 ## Getting Started
 
-No installation or build required.
-visit link: https://kancw.github.io/Pomodoro-Timer-Task-Tracker/
-Or
+No installation or build required.  
+Visit link: https://kancw.github.io/Pomodoro-Timer-Task-Tracker/  
+Or  
 1. Clone or download this repository.
 2. Open `index.html` in any modern browser.
 
